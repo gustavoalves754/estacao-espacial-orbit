@@ -20,4 +20,5 @@ Foi desenvolvido em Java o arquivo `SuporteVida.java`, responsável por monitora
 
 ## Tripulantes / Desenvolvedores
 
-- Gustavo Henrique de Oliveira Alves
+- Gustavo Henrique de Oliveira Alves - RA: 4251920903
+- Gustavo Michael Alves Pereira - RA: 4251920199
